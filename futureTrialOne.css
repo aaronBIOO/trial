@@ -1,0 +1,87 @@
+/* General CSS reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body style */
+body {
+    font-family: 'poppins', sans-serif;
+    background-color: white;
+    color: rgb(56, 53, 53);
+    line-height: 1.6;
+    font-size: large;
+    padding: 0;
+    margin-right: 0;
+}
+
+/* Header style */
+header {
+    background-color: #C2EFD4;
+    margin: 0 auto;
+}
+
+/* logo Container style */
+.logo {
+    font-family: 'limelight';
+    display: flex; /* Makes the children (h2 and nav) flex items */
+    color: #094215;
+    justify-content: space-between; /* Pushes logo left and nav list right */
+    align-items: center; /* Ensures both items are vertically aligned */
+    padding: 0 20px;
+    margin: 0; /* Removes default margin for h2 */
+
+}
+
+/* Navigation style */
+.nav-list {
+    list-style: none;
+    display: flex; /* Makes the list items inline horizontally */
+    gap: 2rem; /* Adds spacing between list items */
+    margin: 0;  /* Removes default margin for ul */
+    padding: 0 20px; /* Removes default padding for ul */
+}
+
+.nav-list a {
+    text-decoration: none;
+    color: #094215;  
+}
+
+.nav-list a:hover {
+    color: white;
+}
+
+/* Hero style */
+.hero {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    padding-bottom: 1rem;
+}
+
+.hero h1 {
+    font-size: 2.5rem;
+    color: #094215;
+    margin-bottom: 1rem;
+    text-align: center;
+    width: 600px;
+    margin-left: 350px;
+}
+
+.hero p {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    width: 600px;
+    margin-left: 350px;
+}
+
+.hero a {
+    display: inline-block;
+    background-color: #094215;
+    color: white;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-left: 585px;
+}
