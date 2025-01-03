@@ -19,3 +19,20 @@ A minimalist, single-page website designed with simplicity in mind. This project
     - Flexbox
     - CSS Grid
     - Media queries for responsiveness
+
+## Screenshots   
+# Navigation and Hero Section
+
+![Navigation and Hero](future-image1.png)
+
+# Body section
+
+![Body section](future-image2.png)
+
+# Body and footer
+
+![Body and footer](future-image3.png)
+
+## Demo
+
+<video src="futureModified.mp4" controls width="600"></video>
