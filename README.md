@@ -35,4 +35,7 @@ A minimalist, single-page website designed with simplicity in mind. This project
 
 ## Demo
 
-<video src="futureModified.mp4" controls width="600"></video>
+## Demo
+
+[Watch the demo video](futureModified.mp4)
+
