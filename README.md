@@ -35,7 +35,7 @@ A minimalist, single-page website designed with simplicity in mind. This project
 
 ## Demo
 
-[Watch the demo video](https://aaronbioo.github.io/futureModified.mp4/)
+[Watch the demo video](https://aaronbioo.github.io/trial/futureModified.mp4/)
 
 
 
