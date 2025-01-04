@@ -35,7 +35,6 @@ A minimalist, single-page website designed with simplicity in mind. This project
 
 ## Demo
 
-## Demo
-
 [Watch the demo video](futureModified.mp4)
+
 
