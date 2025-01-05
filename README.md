@@ -23,15 +23,15 @@ A minimalist, single-page website designed with simplicity in mind. This project
 ## Screenshots   
 # Navigation and Hero Section
 
-![Navigation and Hero](future-image1.png)
+![Navigation and Hero](IMAGES/future-image1.png)
 
 # Body section
 
-![Body section](future-image2.png)
+![Body section](IMAGES/future-image2.png)
 
 # Body and footer
 
-![Body and footer](future-image3.png)
+![Body and footer](IMAGES/future-image3.png)
 
 ## Demo
 
