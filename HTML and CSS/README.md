@@ -6,5 +6,5 @@ Future is a basic website for a web design and development firm.
 - CSS 3
 
 ## Purpose
-- For designing websites
-- For developing website
+- I built future to practice HTML and CSS
+
