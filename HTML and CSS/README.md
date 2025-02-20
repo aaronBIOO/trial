@@ -9,5 +9,5 @@ Future is a basic website for a web design and development firm.
 - I built future to practice my HTML and CSS skills
 
 ## Future Plan
-
+- Adding interative features
 
