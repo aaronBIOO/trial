@@ -11,4 +11,4 @@ Future is a basic website for a web design and development firm.
 ## Future Plan
 - Adding interative features
 - Improving graphic features
-
+- Add icons to features
